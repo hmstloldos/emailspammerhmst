@@ -6,9 +6,9 @@ Support: Linux And Termux 🔥
 --------------------------------------------------------
 git clone https://github.com/hmstloldos/emailspamhamster
 
-cd emailspamhamster
+cd emailspammerhmst
 
-python emailspam.py
+python emailspamhmst.py
 
 --------------------------------------------------------
 
